@@ -1,5 +1,6 @@
 require("dotenv").config(); // Import .env variables
 var express = require("express");
+const serverless = require("serverless-http");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
@@ -30,4 +31,5 @@ app.use((err, req, res, next) => {
   res.status(err.statusCode).send(err.message);
 });
 
+module.exports.handler = serverless(app);
 module.exports = app;
