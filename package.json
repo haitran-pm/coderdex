@@ -1,7 +1,6 @@
 {
   "name": "coderdex",
   "version": "0.0.0",
-  "main": "app.js",
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
@@ -15,7 +14,6 @@
     "dotenv": "^16.4.7",
     "express": "~4.16.1",
     "morgan": "~1.9.1",
-    "nodemon": "^3.1.9",
-    "serverless-http": "^3.2.0"
+    "nodemon": "^3.1.9"
   }
 }
