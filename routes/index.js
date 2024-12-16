@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get("/", function (req, res, next) {
-  res.send("Nice to meet you at CoderDex");
+  res.json({ message: "Nice to meet you at CoderDex" });
 });
 
 /* Book router */

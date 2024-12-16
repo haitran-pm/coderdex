@@ -1,14 +1,13 @@
 # example netlify.toml
 [build]
-  command = "npm run build"
-  functions = "routes"
-  publish = ""
+  functions = "functions"
+  publish = "public"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
-  [[redirects]]
-  from = "/*"
-  to = "/.netlify/routes/:splat"
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
   status = 200
 
   ## (optional) Settings for Netlify Dev
