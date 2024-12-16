@@ -7,7 +7,9 @@ var logger = require("morgan");
 var indexRouter = require("./routes/index");
 
 var app = express();
+app.disable("etag"); // Solve the 304 problem
 
+app.use(express.static("public")); // Serving static files
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
