@@ -18,18 +18,8 @@
       "types": ["grass", "poison"],
       "url": "images/3.png"
     },
-    {
-      "id": 4,
-      "name": "charmander",
-      "types": ["fire"],
-      "url": "images/4.png"
-    },
-    {
-      "id": 5,
-      "name": "charmeleon",
-      "types": ["fire"],
-      "url": "images/5.png"
-    },
+    { "id": 4, "name": "charmander", "types": ["fire"], "url": "images/4.png" },
+    { "id": 5, "name": "charmeleon", "types": ["fire"], "url": "images/5.png" },
     {
       "id": 6,
       "name": "charizard",
@@ -37,18 +27,8 @@
       "url": "images/6.png"
     },
     { "id": 7, "name": "squirtle", "types": ["water"], "url": "images/7.png" },
-    {
-      "id": 8,
-      "name": "wartortle",
-      "types": ["water"],
-      "url": "images/8.png"
-    },
-    {
-      "id": 9,
-      "name": "blastoise",
-      "types": ["water"],
-      "url": "images/9.png"
-    },
+    { "id": 8, "name": "wartortle", "types": ["water"], "url": "images/8.png" },
+    { "id": 9, "name": "blastoise", "types": ["water"], "url": "images/9.png" },
     { "id": 10, "name": "caterpie", "types": ["bug"], "url": "images/10.png" },
     { "id": 11, "name": "metapod", "types": ["bug"], "url": "images/11.png" },
     {
@@ -276,30 +256,15 @@
       "types": ["ground"],
       "url": "images/51.png"
     },
-    {
-      "id": 52,
-      "name": "meowth",
-      "types": ["normal"],
-      "url": "images/52.png"
-    },
+    { "id": 52, "name": "meowth", "types": ["normal"], "url": "images/52.png" },
     {
       "id": 53,
       "name": "persian",
       "types": ["normal"],
       "url": "images/53.png"
     },
-    {
-      "id": 54,
-      "name": "psyduck",
-      "types": ["water"],
-      "url": "images/54.png"
-    },
-    {
-      "id": 55,
-      "name": "golduck",
-      "types": ["water"],
-      "url": "images/55.png"
-    },
+    { "id": 54, "name": "psyduck", "types": ["water"], "url": "images/54.png" },
+    { "id": 55, "name": "golduck", "types": ["water"], "url": "images/55.png" },
     {
       "id": 56,
       "name": "mankey",
@@ -318,18 +283,8 @@
       "types": ["fire"],
       "url": "images/58.png"
     },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "types": ["fire"],
-      "url": "images/59.png"
-    },
-    {
-      "id": 60,
-      "name": "poliwag",
-      "types": ["water"],
-      "url": "images/60.png"
-    },
+    { "id": 59, "name": "arcanine", "types": ["fire"], "url": "images/59.png" },
+    { "id": 60, "name": "poliwag", "types": ["water"], "url": "images/60.png" },
     {
       "id": 61,
       "name": "poliwhirl",
@@ -422,12 +377,7 @@
       "url": "images/76.png"
     },
     { "id": 77, "name": "ponyta", "types": ["fire"], "url": "images/77.png" },
-    {
-      "id": 78,
-      "name": "rapidash",
-      "types": ["fire"],
-      "url": "images/78.png"
-    },
+    { "id": 78, "name": "rapidash", "types": ["fire"], "url": "images/78.png" },
     {
       "id": 79,
       "name": "slowpoke",
@@ -477,12 +427,7 @@
       "types": ["water", "ice"],
       "url": "images/87.png"
     },
-    {
-      "id": 88,
-      "name": "grimer",
-      "types": ["poison"],
-      "url": "images/88.png"
-    },
+    { "id": 88, "name": "grimer", "types": ["poison"], "url": "images/88.png" },
     { "id": 89, "name": "muk", "types": ["poison"], "url": "images/89.png" },
     {
       "id": 90,
@@ -526,19 +471,9 @@
       "types": ["psychic"],
       "url": "images/96.png"
     },
-    {
-      "id": 97,
-      "name": "hypno",
-      "types": ["psychic"],
-      "url": "images/97.png"
-    },
+    { "id": 97, "name": "hypno", "types": ["psychic"], "url": "images/97.png" },
     { "id": 98, "name": "krabby", "types": ["water"], "url": "images/98.png" },
-    {
-      "id": 99,
-      "name": "kingler",
-      "types": ["water"],
-      "url": "images/99.png"
-    },
+    { "id": 99, "name": "kingler", "types": ["water"], "url": "images/99.png" },
     {
       "id": 100,
       "name": "voltorb",
@@ -695,12 +630,7 @@
       "types": ["electric"],
       "url": "images/125.png"
     },
-    {
-      "id": 126,
-      "name": "magmar",
-      "types": ["fire"],
-      "url": "images/126.png"
-    },
+    { "id": 126, "name": "magmar", "types": ["fire"], "url": "images/126.png" },
     { "id": 127, "name": "pinsir", "types": ["bug"], "url": "images/127.png" },
     {
       "id": 128,
@@ -840,12 +770,7 @@
       "types": ["psychic"],
       "url": "images/150.png"
     },
-    {
-      "id": 151,
-      "name": "mew",
-      "types": ["psychic"],
-      "url": "images/151.png"
-    },
+    { "id": 151, "name": "mew", "types": ["psychic"], "url": "images/151.png" },
     {
       "id": 152,
       "name": "chikorita",
@@ -1237,12 +1162,7 @@
       "types": ["normal"],
       "url": "images/217.png"
     },
-    {
-      "id": 218,
-      "name": "slugma",
-      "types": ["fire"],
-      "url": "images/218.png"
-    },
+    { "id": 218, "name": "slugma", "types": ["fire"], "url": "images/218.png" },
     {
       "id": 219,
       "name": "magcargo",
@@ -1509,30 +1429,15 @@
       "types": ["normal"],
       "url": "images/264.png"
     },
-    {
-      "id": 265,
-      "name": "wurmple",
-      "types": ["bug"],
-      "url": "images/265.png"
-    },
-    {
-      "id": 266,
-      "name": "silcoon",
-      "types": ["bug"],
-      "url": "images/266.png"
-    },
+    { "id": 265, "name": "wurmple", "types": ["bug"], "url": "images/265.png" },
+    { "id": 266, "name": "silcoon", "types": ["bug"], "url": "images/266.png" },
     {
       "id": 267,
       "name": "beautifly",
       "types": ["bug", "flying"],
       "url": "images/267.png"
     },
-    {
-      "id": 268,
-      "name": "cascoon",
-      "types": ["bug"],
-      "url": "images/268.png"
-    },
+    { "id": 268, "name": "cascoon", "types": ["bug"], "url": "images/268.png" },
     {
       "id": 269,
       "name": "dustox",
@@ -1797,12 +1702,7 @@
       "types": ["electric"],
       "url": "images/312.png"
     },
-    {
-      "id": 313,
-      "name": "volbeat",
-      "types": ["bug"],
-      "url": "images/313.png"
-    },
+    { "id": 313, "name": "volbeat", "types": ["bug"], "url": "images/313.png" },
     {
       "id": 314,
       "name": "illumise",
@@ -2080,12 +1980,7 @@
       "types": ["psychic"],
       "url": "images/360.png"
     },
-    {
-      "id": 361,
-      "name": "snorunt",
-      "types": ["ice"],
-      "url": "images/361.png"
-    },
+    { "id": 361, "name": "snorunt", "types": ["ice"], "url": "images/361.png" },
     { "id": 362, "name": "glalie", "types": ["ice"], "url": "images/362.png" },
     {
       "id": 363,
@@ -2527,12 +2422,7 @@
       "types": ["steel", "psychic"],
       "url": "images/437.png"
     },
-    {
-      "id": 438,
-      "name": "bonsly",
-      "types": ["rock"],
-      "url": "images/438.png"
-    },
+    { "id": 438, "name": "bonsly", "types": ["rock"], "url": "images/438.png" },
     {
       "id": 439,
       "name": "mime-jr",
@@ -2725,12 +2615,7 @@
       "types": ["grass"],
       "url": "images/470.png"
     },
-    {
-      "id": 471,
-      "name": "glaceon",
-      "types": ["ice"],
-      "url": "images/471.png"
-    },
+    { "id": 471, "name": "glaceon", "types": ["ice"], "url": "images/471.png" },
     {
       "id": 472,
       "name": "gliscor",
@@ -2869,12 +2754,7 @@
       "types": ["psychic", "fire"],
       "url": "images/494.png"
     },
-    {
-      "id": 495,
-      "name": "snivy",
-      "types": ["grass"],
-      "url": "images/495.png"
-    },
+    { "id": 495, "name": "snivy", "types": ["grass"], "url": "images/495.png" },
     {
       "id": 496,
       "name": "servine",
@@ -3483,18 +3363,8 @@
       "types": ["grass", "steel"],
       "url": "images/598.png"
     },
-    {
-      "id": 599,
-      "name": "klink",
-      "types": ["steel"],
-      "url": "images/599.png"
-    },
-    {
-      "id": 600,
-      "name": "klang",
-      "types": ["steel"],
-      "url": "images/600.png"
-    },
+    { "id": 599, "name": "klink", "types": ["steel"], "url": "images/599.png" },
+    { "id": 600, "name": "klang", "types": ["steel"], "url": "images/600.png" },
     {
       "id": 601,
       "name": "klinklang",
@@ -3549,12 +3419,7 @@
       "types": ["ghost", "fire"],
       "url": "images/609.png"
     },
-    {
-      "id": 610,
-      "name": "axew",
-      "types": ["dragon"],
-      "url": "images/610.png"
-    },
+    { "id": 610, "name": "axew", "types": ["dragon"], "url": "images/610.png" },
     {
       "id": 611,
       "name": "fraxure",
@@ -3567,30 +3432,15 @@
       "types": ["dragon"],
       "url": "images/612.png"
     },
-    {
-      "id": 613,
-      "name": "cubchoo",
-      "types": ["ice"],
-      "url": "images/613.png"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "types": ["ice"],
-      "url": "images/614.png"
-    },
+    { "id": 613, "name": "cubchoo", "types": ["ice"], "url": "images/613.png" },
+    { "id": 614, "name": "beartic", "types": ["ice"], "url": "images/614.png" },
     {
       "id": 615,
       "name": "cryogonal",
       "types": ["ice"],
       "url": "images/615.png"
     },
-    {
-      "id": 616,
-      "name": "shelmet",
-      "types": ["bug"],
-      "url": "images/616.png"
-    },
+    { "id": 616, "name": "shelmet", "types": ["bug"], "url": "images/616.png" },
     {
       "id": 617,
       "name": "accelgor",
@@ -4162,12 +4012,7 @@
       "types": ["ice"],
       "url": "images/712.png"
     },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "types": ["ice"],
-      "url": "images/713.png"
-    },
+    { "id": 713, "name": "avalugg", "types": ["ice"], "url": "images/713.png" },
     {
       "id": 714,
       "name": "noibat",
@@ -4215,7 +4060,13 @@
       "name": "volcanion",
       "types": ["fire", "water"],
       "url": "images/721.png"
+    },
+    {
+      "id": 1001,
+      "name": "my pika 1",
+      "types": ["rock"],
+      "url": "images/701.png"
     }
   ],
-  "totalPokemons": 721
+  "totalPokemons": 722
 }
